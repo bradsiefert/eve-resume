@@ -2,8 +2,9 @@
 
 body {
   @include body-font;
-  padding-top: 54px;
-  color: $gray-600;
+  padding-top: 64px;
+  color: $gray-800;
+  letter-spacing: -0.1px;
 }
 
 @media (min-width: 992px) {

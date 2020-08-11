@@ -43,15 +43,20 @@
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 500;
-  font-size: 1.125rem;
-  font-family: 'Fira Sans Condensed';
-  letter-spacing: 0.05rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-family: "Saira Extra Condensed";
+  letter-spacing: 0.2px;
   text-transform: uppercase;
 }
 
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  // color: rgba(255,255,255,0.8);
+  color: #fff;
 }
 
 @media (min-width: 992px) {

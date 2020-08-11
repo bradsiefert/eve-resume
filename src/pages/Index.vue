@@ -9,9 +9,10 @@
       <hr class="m-0">
       <Skills/>
       <hr class="m-0">
-      <Interests/>
-      <hr class="m-0">
       <Awards/>
+      <hr class="m-0">
+      <Interests/>
+
     </div>
   </Layout>
 </template>
@@ -44,7 +45,7 @@ export default {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont,
+  font-family: "Saira Extra Condensed", 'Inter', -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.5rem;

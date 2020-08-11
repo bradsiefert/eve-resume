@@ -45,6 +45,6 @@ export default function (Vue, {
   })
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@500;600;700;800;900&display=swap'
+    href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;700display=swap'
   })
 }

@@ -1,11 +1,11 @@
 <template>
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
     <div class="w-100">
-      <h1 class="mb-0">
+      <h1 class="mb-2">
         Eve E.<span class="text-primary">Gardner</span>
       </h1>
       <div class="subheading mb-5">
-        <address class="d-inline">GRAND RAPIDS, MI</address>&nbsp;&nbsp; | &nbsp;&nbsp;(616) 307-9358 &nbsp;&nbsp;|&nbsp;&nbsp;
+        <address class="d-inline">GRAND RAPIDS, MI</address>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;(616) 307-9358 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
         <a href="mailto:GARDNER.EELIZABETH@GMAIL.COM">GARDNER.EELIZABETH@GMAIL.COM</a>
       </div>
       <p class="lead mb-5">
@@ -13,11 +13,8 @@
       </p>
 
       <div class="social-icons">
-        <a href="https://linkedin.com/in/lokecarlsson" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/eve-gardner-17997a16b/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
-        </a>
-        <a href="https://twitter.com/carlssonloke" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'twitter']"/>
         </a>
       </div>
     </div>

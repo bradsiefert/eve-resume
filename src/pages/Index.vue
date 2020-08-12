@@ -35,8 +35,8 @@ export default {
     Awards
   },
   metaInfo: {
-    title: "Gridsome Starter Resume",
-    titleTemplate: "%s - Create your resume quick and easy!"
+    title: "Eve E. Gardner's Resume",
+    titleTemplate: "%s"
   }
 };
 </script>

@@ -7,7 +7,7 @@
           Gardner, EE (2018). <strong>​Investigating the Role of the Tumor Microenvironment in NF-Related Breast Cancer.</strong> V​an Andel Institute Summer Internship Program, Oral Presentation.
         </li>
         <li>
-          Dischinger, PS, (2018). <strong>​​NF1 deficiency correlates with estrogen receptor signaling and diminished survival in breast cancer.</strong>​ ​npj Breast Cancer.
+          Dischinger, PS, (2018). <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6117327/#Sec1title"><strong>​​NF1 deficiency correlates with estrogen receptor signaling and diminished survival in breast cancer.</strong></a>​ ​npj Breast Cancer.
         </li>
         <li>
           Gardner, EE & Dischinger, PS, (2017). ​<strong>​Characterizing a Novel Neurofibromatosis Type 1 Rat Model.</strong> W​est Michigan Regional Undergraduate Science Research Conference, Poster Presentation.

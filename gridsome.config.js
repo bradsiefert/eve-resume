@@ -1,18 +1,10 @@
 module.exports = {
-  siteName: 'Gridsome starter resume',
-  siteDescription: 'A starter project for Gridsome with Bootstrap for you to quickly build a resume.',
-  siteUrl: 'https://gridsome-starter-resume.loke.dev',
-  plugins: [{
-      use: '@gridsome/plugin-google-analytics',
-      options: {
-        id: 'UA-72659574-11'
-      }
-    },
+  siteName: 'Eve E. Gardner - Resume',
+  siteDescription: 'Resume website for Eve E. Gardner.',
+  siteUrl: 'https://eve-gardner-resume.netlify.app',
+  plugins: [
     {
       use: '@gridsome/plugin-sitemap',
-      options: {
-        cacheTime: 600000
-      }
     }
   ],
   css: {

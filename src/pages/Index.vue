@@ -10,8 +10,8 @@
       <Skills/>
       <hr class="m-0">
       <Awards/>
-      <hr class="m-0">
-      <Interests/>
+      <!-- <hr class="m-0">
+      <Interests/> -->
 
     </div>
   </Layout>
